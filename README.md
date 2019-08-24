@@ -4,7 +4,7 @@
 
 ## Tensorflow
 
-| Title                                                        | Year | Conference   | Company | Author | Code Repository |
+| [Title](Paper Link)                                          | Year | Conference   | Company | Author | Code Repository |
 | ------------------------------------------------------------ | ---- | ------------ | ------- | ------ | --------------- |
 | Variational Information Distillation for Knowledge Transfer  |      |              |         |        |                 |
 | Relation Networks for Object Detection                       |      |              |         |        |                 |
