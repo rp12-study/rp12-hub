@@ -19,10 +19,10 @@
 
 ## Pytorch
 
-| [Title](Paper Link)                                          | Year | Conference | Company      | Author       | Code Repository |
-| ------------------------------------------------------------ | ---- | ---------- | ------------ | ------------ | --------------- |
-| DLOW: Domain Flow for Adaptation and Generalization          |      |            |              |              |                 |
-| Image Super Resolution by Neural Texure Transfer             |      |            |              |              |                 |
-| Decoupled Network, Regularface, Arcface                      |      |            |              |              |                 |
-| [Music Transformer](https://arxiv.org/abs/1809.04281)        | 2019 | ICLR       | Google Brain | Huang et al. |                 |
-| Improving Hearthstone AI by Combining MCTS and Supervised Learning Algorithms <br />( C++ Torch ) |      |            |              |              |                 |
+| [Title](Paper Link)                                          | Year | Conference | Company      | Author       | Code Repository                                       |
+| ------------------------------------------------------------ | ---- | ---------- | ------------ | ------------ | ----------------------------------------------------- |
+| DLOW: Domain Flow for Adaptation and Generalization          |      |            |              |              |                                                       |
+| Image Super Resolution by Neural Texure Transfer             |      |            |              |              |                                                       |
+| Decoupled Network, Regularface, Arcface                      |      |            |              |              |                                                       |
+| [Music Transformer](https://arxiv.org/abs/1809.04281)        | 2019 | ICLR       | Google Brain | Huang et al. | https://github.com/jason9693/MusicTransformer-pytorch |
+| Improving Hearthstone AI by Combining MCTS and Supervised Learning Algorithms <br />( C++ Torch ) |      |            |              |              |                                                       |
