@@ -12,7 +12,7 @@
 | [Style Transfer by Relaxed Optimal Transport and Self-Similarity](https://arxiv.org/abs/1904.12785) | 2019 | CVPR         |         | Kolkin et al. | https://github.com/nuxlear/STROTSS-keras |
 | Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning |2019|CVPR|Nanjing Univ. et al.|Wenbin Li et al.|https://github.com/llable/DN4-Tensorflow|
 | Stand-Alone Self-Attention in Vision Models                  |      |              |         |        |                 |
-| Striving for Simplicity in Off-policy Deep Reinforcement Learning |      |              |         |        |                 |
+| [Striving for Simplicity in Off-policy Deep Reinforcement Learning](https://arxiv.org/abs/1907.04543) | 2019 | Under Review | Google Brain | Agarwal et al. | https://github.com/seungwon1/batch_rl |
 | Muse Net                                                     | 2019 | Under Review | Open AI |        |                 |
 
 
