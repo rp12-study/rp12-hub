@@ -9,7 +9,7 @@
 | Variational Information Distillation for Knowledge Transfer  |      |              |         |        |                 |
 | Relation Networks for Object Detection                       |      |              |         |        |                 |
 | Attention Is All You Need                                    |      |              |         |        |                 |
-| Style Transfer by Relaxed Optimal Transport and Self-Similarity |      |              |         |        |                 |
+| [Style Transfer by Relaxed Optimal Transport and Self-Similarity](https://arxiv.org/abs/1904.12785) | 2019 | CVPR         |         | Kolkin et al. | https://github.com/nuxlear/STROTSS-keras |
 | Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning |      |              |         |        |                 |
 | Stand-Alone Self-Attention in Vision Models                  |      |              |         |        |                 |
 | Striving for Simplicity in Off-policy Deep Reinforcement Learning |      |              |         |        |                 |
