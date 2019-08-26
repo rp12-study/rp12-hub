@@ -10,7 +10,7 @@
 | Relation Networks for Object Detection                       |      |              |         |           |                 |
 | Attention Is All You Need                                    |      |              |         |           |                 |
 | [Style Transfer by Relaxed Optimal Transport and Self-Similarity](https://arxiv.org/abs/1904.12785) | 2019 | CVPR         |         | Kolkin et al. | https://github.com/nuxlear/STROTSS-keras |
-| Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning |      |              |         |        |                 |
+| Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning |2019|CVPR|Nanjing Univ. et al.|Wenbin Li et al.|https://github.com/llable/DN4-Tensorflow|
 | Stand-Alone Self-Attention in Vision Models                  |      |              |         |        |                 |
 | Striving for Simplicity in Off-policy Deep Reinforcement Learning |      |              |         |        |                 |
 | Muse Net                                                     | 2019 | Under Review | Open AI |        |                 |
