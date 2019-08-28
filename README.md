@@ -22,7 +22,7 @@
 | [Title](Paper Link)                                          | Year | Conference | Company      | Author       | Code Repository                                       |
 | ------------------------------------------------------------ | ---- | ---------- | ------------ | ------------ | ----------------------------------------------------- |
 | [DLOW: Domain Flow for Adaptation and Generalization](https://arxiv.org/pdf/1812.05418.pdf)          | 2019 | CVPR       |              |Rui Gong et al.|https://github.com/Euiyeon-Kim/DLOW-Pytorch|
-| Image Super Resolution by Neural Texure Transfer             |      |            |              |              |                                                       |
+| [Image Super Resolution by Neural Texure Transfer](https://arxiv.org/abs/1903.00834)             | 2019 | CVPR       | Adobe        | Zhifei Zhang et al.   | https://github.com/DevKiHyun/SRNTT-Pytorch |
 | Decoupled Network, Regularface, Arcface                      |      |            |              |              |                                                       |
 | [Music Transformer](https://arxiv.org/abs/1809.04281)        | 2019 | ICLR       | Google Brain | Huang et al. | https://github.com/jason9693/MusicTransformer-pytorch |
 | Improving Hearthstone AI by Combining MCTS and Supervised Learning Algorithms <br />( C++ Torch ) |      |            |              |              |                                                       |
