@@ -23,6 +23,8 @@
 | ------------------------------------------------------------ | ---- | ---------- | ------------ | ------------ | ----------------------------------------------------- |
 | [DLOW: Domain Flow for Adaptation and Generalization](https://arxiv.org/pdf/1812.05418.pdf)          | 2019 | CVPR       |              |Rui Gong et al.|https://github.com/Euiyeon-Kim/DLOW-Pytorch|
 | Image Super Resolution by Neural Texure Transfer             |      |            |              |              |                                                       |
-| Decoupled Network, Regularface, Arcface                      |      |            |              |              |                                                       |
-| [Music Transformer](https://arxiv.org/abs/1809.04281)        | 2019 | ICLR       | Google Brain | Huang et al. | https://github.com/jason9693/MusicTransformer-pytorch |
-| Improving Hearthstone AI by Combining MCTS and Supervised Learning Algorithms <br />( C++ Torch ) |      |            |              |              |                                                       |
+| [Music Transformer](https://arxiv.org/abs/1809.04281) | 2019 | ICLR | Google Brain | Huang et al. | https://github.com/jason9693/MusicTransformer-pytorch |
+| Improving Hearthstone AI by Combining MCTS and Supervised Learning Algorithms <br />( C++ Torch ) |      |            |                                 |                      |                                                        |
+| [Decoupled Network](https://arxiv.org/pdf/1804.08071.pdf) | 2019 | CVPR | Georgia Institute of Technology | Weiyang Liu et al. | https://github.com/ChoSungMan/awesome-face-recognition |
+| [ArcFace](https://arxiv.org/pdf/1801.07698.pdf) | 2019 | CVPR | Imperial College London | Jiankang Deng et al. | https://github.com/ChoSungMan/awesome-face-recognition |
+| [RegularFace](http://mftp.mmcheng.net/Papers/19cvprRegularFace.pdf) | 2019 | CVPR | TKLNDST | Kai Zhao et al. | https://github.com/ChoSungMan/awesome-face-recognition |
