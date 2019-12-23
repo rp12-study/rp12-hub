@@ -14,6 +14,7 @@
 |[Stand-Alone Self-Attention in Vision Models](https://arxiv.org/abs/1906.05909)|2019||Google|Prajit Ramachandran et al.|https://github.com/tykimos/Stand-Alone-Self-Attention-Keras|
 | [Striving for Simplicity in Off-policy Deep Reinforcement Learning](https://arxiv.org/abs/1907.04543) | 2019 | Under Review | Google Brain | Agarwal et al. | https://github.com/seungwon1/batch_rl |
 | Muse Net                                                     | 2019 | Under Review | Open AI |        |                 |
+| [Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning](http://openaccess.thecvf.com/content_ICCV_2019/html/Park_Symmetric_Graph_Convolutional_Autoencoder_for_Unsupervised_Graph_Representation_Learning_ICCV_2019_paper.html) | 2019 | ICCV | Seoul National University | Park et al. | https://github.com/sseung0703/GALA_TF2.0 |
 
 
 
